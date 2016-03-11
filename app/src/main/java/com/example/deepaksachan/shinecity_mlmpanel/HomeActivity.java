@@ -357,7 +357,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
             getSupportActionBar().setTitle("Group Structure");
             expand_layout.setVisibility(View.GONE);
             flag = true;
-            getFragmentManager().beginTransaction().replace(R.id.mainContent, new GroupStructureFragment()).addToBackStack(null).commit();
+            getFragmentManager().beginTransaction().replace(R.id.mainContent, new GroupStructureFragment()).commit();
             mDrawerLayout.closeDrawer(mDrawerPane);
         } else if (v == liner_logout_changetheme) {
             colorpicker();
