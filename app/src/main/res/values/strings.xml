@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ShineCity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="cd_navdrawer_image">Navigation Drawer Image</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Profile</item>
+        <item >Account</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="Select_payoutno">Select</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_epin_registration">EPinRegistration</string>
+    <string name="title_activity_epin_registered_success">EPinRegisteredSuccess</string>
+    <string name="title_activity_forget_password">ForgetPassword</string>
+    <string name="title_activity_otppassword_change">OTPPasswordChange</string>
+<!-- TODO: Remove or change this placeholder text -->
+</resources>
